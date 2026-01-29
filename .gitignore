@@ -1,0 +1,33 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+
+# Google Drive credentials 
+credentials.json
+token.json
+
+# Data files
+data/
+
+
+
+#test files
+delete_dates_memory.py
+repopulate_db.py
+graph.md
+
+# Downloaded audio
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.ogg
+
+
+# Logs
+*.log
+
+# Jupyter
+*.ipynb_checkpoints
