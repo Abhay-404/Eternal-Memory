@@ -92,6 +92,11 @@ MY_BRAIN/
 │   └── vector_store/               # Searchable embeddings
 ```
 
+<img width="8192" height="4736" alt="Mermaid Chart - Create complex, visual diagrams with text -2026-01-29-153819" src="https://github.com/user-attachments/assets/2b6ce9da-8feb-4451-90bb-fe90def91d70" />
+
+
+
+
 ## Memory Tiers
 
 ### 1. Primary Context (500 words)
