@@ -139,7 +139,7 @@ Just run `update_today_memory.py` - it processes all pending audio automatically
 - Each audio file transcribed separately
 - All transcriptions combined for daily summary
 - Supports: mp3, wav, m4a, aac
-- Languages: Hindi, English, Hinglish (mixed)
+- Languages: Hindi, English, Hinglish (mixed) etc.
 
 ### Memory Updates:
 - Daily summary feeds into primary context
@@ -181,3 +181,8 @@ FOLDER_ID = "your_folder_id_here"
 - Supports multilingual input (Hindi/English/Hinglish)
 - Weekly summaries created every Sunday
 - Monthly summaries created on last day of month
+
+## Things to try 
+- Graphrag(https://arxiv.org/abs/2501.13956)
+- Better dataset
+- Speaker identification 
